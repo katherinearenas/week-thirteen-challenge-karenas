@@ -55,7 +55,7 @@ router.put('/:id', async (req, res) => {
     }
   )
     .then((updatedCategory) => {
-      res.json(updatedCategory);
+      res.status(200).json(updatedCategory);
     })
     .catch((err) => res.json(err));
 });
@@ -66,7 +66,7 @@ router.delete('/:id', async (req, res) => {
       const categoryData = await Category.destroy({
         where: { id: req.params.id }
       });
-      if (!tripData) {
+      if (!categoryData) {
         res.status(404).json({ message: 'No category with this id!' });
         return;
       }
