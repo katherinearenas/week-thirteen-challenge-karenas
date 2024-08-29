@@ -1,3 +1,4 @@
+-- Active: 1723505728050@@127.0.0.1@5432@courses_db
 -- DROP DATABASE
 DROP DATABASE IF EXISTS ecommerce_db;
 
