@@ -2,7 +2,7 @@
 
 
 ## Purpose
-The purpose of this project was to create a back-end for an e-commerce site. This application usest Express.JS, pg, and Sequelize, to build out a database of inventory of products, along with categories and tags to classify them.  
+The purpose of this project was to create a back-end for an e-commerce site. This application uses Express.JS, pg, and Sequelize, to build out a database of inventory of products, along with categories and tags to classify them.  
 
 
 ## Installation
