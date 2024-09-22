@@ -20,7 +20,7 @@ This database allows the user to retrieve a list of all products, categories, an
 
 ## Notes
 
-THe project was completed with the help of my instructor, TA and tutors.
+The project was completed with the help of my instructor, TA and tutors.
 
 [Here's the Video Link](https://drive.google.com/file/d/15iQIO34j2KKZNpmjHYqk7yhUExWqSmlk/view)
 
